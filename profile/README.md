@@ -47,8 +47,10 @@
 
 ---
 
-## Contributing
-Contributions are welcome.  
-Keep code clean, documented, and consistent with existing structure.
+## 🤝 Contributing
+Contributions are only accepted for projects that explicitly permit it.  
+Some repositories may be **restricted or All Rights Reserved**, and will not accept external contributions.
+
+Always review the repository’s license and guidelines before opening a pull request.
 
 ---
